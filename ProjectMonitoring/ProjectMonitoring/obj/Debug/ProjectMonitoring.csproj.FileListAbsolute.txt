@@ -1,0 +1,17 @@
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\ProjectMonitoring.exe.config
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\ProjectMonitoring.exe
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\ProjectMonitoring.pdb
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.Form1.resources
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.Properties.Resources.resources
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.csproj.GenerateResource.cache
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.csproj.CopyComplete
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.exe
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.pdb
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\AForge.Video.dll
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\AForge.dll
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\AForge.Video.xml
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\bin\Debug\AForge.xml
+C:\Users\blackleon\source\repos\ProjectMonitoring\ProjectMonitoring\obj\Debug\ProjectMonitoring.csprojAssemblyReference.cache
